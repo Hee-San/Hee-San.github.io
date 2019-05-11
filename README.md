@@ -5,11 +5,11 @@
 システムデザイン学部 システムデザイン学科 情報システムデザインコース  
 学部4年 （2019年度現在）
 
-[:octocat:GitHub : Hee-San](github.com/Hee-San)
+[:octocat:GitHub:Hee-San](github.com/Hee-San)
 
-[Twitter : @hee_san_](https://twitter.com/hee_san_)
+[Twitter:@hee_san_](https://twitter.com/hee_san_)
 
-[AtCoder : heysan](https://atcoder.jp/users/heysan)
+[AtCoder:heysan](https://atcoder.jp/users/heysan)  Rating:![#00c0c0](https://placehold.it/15/00c0c0/000000?text=+)1275
 
 [ブログ](https://hee-san.github.io/blog/)
 

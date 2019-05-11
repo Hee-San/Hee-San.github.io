@@ -9,7 +9,7 @@
 
 [Twitter:@hee_san_](https://twitter.com/hee_san_)
 
-[AtCoder:heysan](https://atcoder.jp/users/heysan)  Rating:![#00c0c0](https://placehold.it/15/00c0c0/000000?text=+)1275
+[AtCoder:heysan](https://atcoder.jp/users/heysan)  Rating:![#B2ECEC](https://placehold.it/15/B2ECEC/000000?text=+)1275
 
 [ブログ](https://hee-san.github.io/blog/)
 

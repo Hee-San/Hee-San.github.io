@@ -9,6 +9,8 @@
 
 [Twitter:@hee_san_](https://twitter.com/hee_san_)
 
+[ブログ](https://hee-san.github.io/blog/)
+
 ## 好きなこと
 
 プログラミング、数学

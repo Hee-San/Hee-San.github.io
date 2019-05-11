@@ -1,11 +1,11 @@
 # Hee-San.github.io
 ## 自己紹介
 
-:school: 首都大学東京  
+首都大学東京  
 システムデザイン学部 システムデザイン学科 情報システムデザインコース  
 学部4年 （2019年度現在）
 
-[:octocat:GitHub:Hee-San](github.com/Hee-San)
+[GitHub:Hee-San](github.com/Hee-San)
 
 [Twitter:@hee_san_](https://twitter.com/hee_san_)
 
